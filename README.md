@@ -1,2 +1,2 @@
 # Grievance-management-system
-Using Java and Spring Boot
+Using Java, Spring Boot maven
